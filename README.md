@@ -1,14 +1,15 @@
 # PorkemonGallery
 
-This project was created with Angular4.
+This project was created with Angular4. Requirements of this projects can be found in attached pokemon-gallery-readme.pdf
+
 Before running the project please make sure following dependencies are installed
 
-Node.js with NPM (Node Package Manager)
-Angular-CLI (Command Line Interface)
-
-If dependencies are not installed, please follow these steps. Otherwise follow instructions to clone the repository and run setup.
+1. Node.js with NPM (Node Package Manager)
+2. Angular-CLI (Command Line Interface)
 
 ## Installation of dependencies
+If dependencies are not installed, please follow steps given below, otherwise follow code setup instructions.
+
 1. To Install Node: https://nodejs.org/en/download/
 2. Once Node is installed, run following command on terminal to make sure node has been installed
 > node -v
