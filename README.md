@@ -1,6 +1,27 @@
 # PorkemonGallery
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This project was created with Angular4.
+Before running the project please make sure following dependencies are installed
+
+Node.js with NPM (Node Package Manager)
+Angular-CLI (Command Line Interface)
+
+If dependencies are not installed, please follow these steps. Otherwise follow instructions to clone the repository and run setup.
+
+## Installation of dependencies
+1. To Install Node: https://nodejs.org/en/download/
+2. Once Node is installed, run following command on terminal to make sure node has been installed
+> node -v
+3. Now install angular cli using following command on terminal
+> npm install -g @angular/cli
+
+## Code setup
+1. Once dependencies are installed, project can be clonned using following command
+> git clone https://github.com/arvaidya/pokemonGallery.git
+2. Go inside pokemonGallery and run following command
+> npm install
+
+Once these steps are performed Development server can be started as instructed below
 
 ## Development server
 
