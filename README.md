@@ -1,6 +1,6 @@
 # PorkemonGallery
 
-This project was created with Angular4. Requirements of this projects can be found in attached pokemon-gallery-readme.pdf
+This project was created with Angular4. Requirements of this projects can be found in attached file [pokemon-gallery-readme.pdf](https://github.com/arvaidya/pokemonGallery/blob/master/pokemon-gallery-readme.pdf)
 
 Before running the project please make sure following dependencies are installed
 
